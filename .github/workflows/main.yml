@@ -34,4 +34,4 @@ jobs:
 
       # Run component tests
       - name: Run Tests
-        run: npm run test-component
+        run: npm run test
